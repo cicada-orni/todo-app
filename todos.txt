@@ -1,8 +1,6 @@
 new player
 already fixeddrink water
 add a new member
-new default
-Already MetMaster Python!
 SomethingMy newset todo is added
 last todo
 lastely added
